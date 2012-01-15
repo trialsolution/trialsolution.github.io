@@ -3,6 +3,7 @@ layout: post
 title: Prospects for agricultural markets and income 2010-2020
 authors: Dg Agriculture
 abstract: Yearly outlook publication of Dg Agriculture of the European Commission. 
+tags : [publication]
 ---
 
 h1. {{ page.title }}
