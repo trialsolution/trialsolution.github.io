@@ -6,7 +6,9 @@ subtitle: personal website
 
 ## Overview
 
-This website was created to provide references and updates to my research activites.
+Mihaly Himics is a researcher at JRC-IPTS... 
 
-You can also check out [my blog](http://trialsolution.wordpress.com).
+This website provides references and updates to his research activites.
+
+For further info follow [my blog](http://trialsolution.wordpress.com).
 
