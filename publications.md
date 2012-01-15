@@ -10,8 +10,13 @@ subtitle: List of publications
     {% for post in site.posts %}
 
     {% if post.genre == 'publication' %}
+      <li><span>{{ post.year }}</span> &raquo; <span>{{ post.title }}</span><br /> {{ post.abstract }} <a href="{{ post.url }}">more...</a> <a href="{{ post.linktodoc }}">[doc]</a></li>
 
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <span>{{ post.title }}</span> {{ post.abstract }} <a href="{{ post.url }}">more...</a> <a href="{{ post.linktodoc }}">[doc]</a></li>
+
+    
+    {% if post.genre == 'news' %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <span>{{ post.title }}</span><br /> {{ post.subtitle}} <a href="{{ post.url }}">more...</a> </li>
+
 
     {% endif  %}
 
