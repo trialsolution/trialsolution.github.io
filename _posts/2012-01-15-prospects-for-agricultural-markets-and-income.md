@@ -2,13 +2,16 @@
 layout: post
 title: Prospects for agricultural markets and income 2010-2020
 authors: Dg Agriculture
-abstract: Yearly outlook publication of Dg Agriculture of the European Commission. 
+abstract: Yearly outlook publication of Dg Agriculture of the European Commission. The CAPRI team of JRC-IPS contributed with an uncertainty analysis on yields.
 tags : [publication]
 ---
 
-h1. {{ page.title }}
+{{ page.title }}
+================
 
-p(meta). December 2011 
+<div class="meta">
+	<p> December 2011 </p>
+</div>
 
 Yearly outlook publication of Dg Agriculture of the European Commission. JRC-IPTS was involved with ...
 
