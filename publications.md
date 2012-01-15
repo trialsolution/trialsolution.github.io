@@ -11,7 +11,7 @@ subtitle: List of publications
 
     {% if post.genre == 'publication' %}
 
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <span>{{ post.title }}</span> <a href="{{ post.url }}">{{ post.abstract }}</a> </li>
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <span>{{ post.title }}</span> {{ post.abstract }} <a href="{{ post.url }}">more...</a> <a href="{{ post.linktodoc }}">[doc]</a></li>
 
     {% endif  %}
 
