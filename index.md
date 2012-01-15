@@ -4,7 +4,8 @@ title: trial solution
 subtitle: personal website
 ---
 
-## Overview
+About
+=====
 
 Mihaly Himics is a researcher at JRC-IPTS... 
 
