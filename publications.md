@@ -9,10 +9,10 @@ subtitle: List of publications
   <ul class="posts">
     {% for post in site.posts %}
 
-    {% if post.tags == 'publication' %}
+    {% if post.genre == 'publication' %}
 
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <span>{{ post.title }}</span> <a href="{{ post.url }}">{{ post.abstract }}</a> </li>
-    
+
     {% endif  %}
 
     {% endfor %}
