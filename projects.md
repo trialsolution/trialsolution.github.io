@@ -10,7 +10,7 @@ subtitle: List of projects
     {% for post in site.posts %}
 
     {% if post.genre == 'project' %}
-      <li><span>{{ post.year }}</span> &raquo; <span>{{ post.title }}</span><br /> {{ post.summary}} <a href="{{ post.url }}">more...</a> <a href="{{ post.linktosite}}">[doc]</a></li>
+      <li><span>{{ post.year }}</span> &raquo; <span>{{ post.title }}</span><br /> {{ post.summary}} <a href="{{ post.url }}">more...</a> <a href="{{ post.linktosite}}">[project page]</a></li>
 
 
     {% endif  %}
