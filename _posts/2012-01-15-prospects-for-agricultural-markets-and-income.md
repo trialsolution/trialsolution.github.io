@@ -4,7 +4,7 @@ title: Prospects for agricultural markets and income 2010-2020
 authors: Dg Agriculture
 abstract: Yearly outlook publication of Dg Agriculture of the European Commission. The CAPRI team of JRC-IPS contributed with an uncertainty analysis on yields.
 genre: publication
-linktodoc: http://www.google.es/url?sa=t&rct=j&q=prospects%20for%20agricultural%20markets%20dg%20agri&source=web&cd=1&ved=0CC4QFjAA&url=http%3A%2F%2Fec.europa.eu%2Fagriculture%2Fpubli%2Fcaprep%2Fprospects2010%2Ffullrep_en.pdf&ei=OfAST7exHYqfOpnU1dQG&usg=AFQjCNEDWhDMNfReLY7hzPh5L3gsly6kvA&sig2=xqEkXzLwotBVxgQm9BvRWg
+linktodoc: http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf
 year: 2011
 ---
 
@@ -15,7 +15,9 @@ year: 2011
 	<p> December 2011 </p>
 </div>
 
-Yearly outlook publication of Dg Agriculture of the European Commission. JRC-IPTS was involved with ...
+Dg Agriculture and Rural Development of the European Commission publishes its prospects for the agricultural markets every year. Since a few years, JRC-IPTS is involved in the process. This year we provided uncertainty analysis exploring possible alternative development paths for the agriculture around the projection under 'normal circumstances'. Uncertainty analysis is getting more and more important in applied economics research, probably due to the high and increasing volatility on the commodity markets. 
 
-[pdf](http://www.google.es/url?sa=t&rct=j&q=prospects%20for%20agricultural%20markets%20dg%20agri&source=web&cd=1&ved=0CC4QFjAA&url=http%3A%2F%2Fec.europa.eu%2Fagriculture%2Fpubli%2Fcaprep%2Fprospects2010%2Ffullrep_en.pdf&ei=OfAST7exHYqfOpnU1dQG&usg=AFQjCNEDWhDMNfReLY7hzPh5L3gsly6kvA&sig2=xqEkXzLwotBVxgQm9BvRWg)
+This year (similar to last year) I had the chance to become a contributing author of the outlook by working on the uncertainties in production costs. 
+
+[pdf](http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf)
 
