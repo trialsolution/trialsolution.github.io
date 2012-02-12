@@ -13,7 +13,7 @@ genre: news
          <p> 10 February 2012 </p>
 </div>
 
-With my colleagues we finalized our paper for the upcoming EAAE seminar in Dublin. It deals with uncertainties in the production costs of agricultural activities and we used the CAPRI model to simulate the impacts.
+With my colleagues we finalized our paper for the [upcoming EAAE seminar](http://www.aesi.ie/eaae2012/) in Dublin. It deals with uncertainties in the production costs of agricultural activities and we used the CAPRI model to simulate the impacts.
 
 Supporting open and 'reproducible' research, I made the data and the econometric estimation vailable in a public github [repository](https://github.com/trialsolution/input_costs). The paper itself will be available in the [Agecon Search](http://ageconsearch.umn.edu/) a few weeks after the seminar.
 
