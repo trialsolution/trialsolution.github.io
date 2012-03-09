@@ -9,7 +9,6 @@ subtitle: News items
   <ul class="posts">
     {% for post in site.posts %}
 
-   
     {% if post.genre == 'news' %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <span>{{ post.title }}</span><br /> {{ post.subtitle}} <a href="{{ post.url }}">more...</a> </li>
 
