@@ -13,6 +13,6 @@ genre: news
          <p> 8 March 2012 </p>
 </div>
 
-Our joint paper with my fellow CAPRI colleagues in IPTS is accepted for the 28th IAAE Conference with the title: “EU Wide Regional and Farm Level Impacts of Climate Change”.
+Our joint paper with my fellow CAPRI colleagues in IPTS is accepted for the 28th IAAE Conference with the title: 'EU Wide Regional and Farm Level Impacts of Climate Change'.
 
 The conference website is available [here](http://www.itarget.com.br/newclients/sober.org.br/icae_2012/)
