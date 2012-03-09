@@ -15,7 +15,7 @@ year: 2011
 	<p> December 2011 </p>
 </div>
 
-Dg Agriculture and Rural Development of the European Commission publishes its prospects for the agricultural markets every year. Since a few years, JRC-IPTS is involved in the process. This year we provided uncertainty analysis exploring possible alternative development paths for the agriculture around the projection under 'normal circumstances'. Uncertainty analysis is getting more and more important in applied economics research, probably due to the high and increasing volatility on the commodity markets. 
+DG Agriculture and Rural Development of the European Commission publishes its prospects for the agricultural markets every year. Since a few years, JRC-IPTS is involved in the process. This year we provided uncertainty analysis exploring possible alternative development paths for the agriculture around their projection under 'normal circumstances'. Uncertainty analysis is getting more and more important in applied economics research, probably due to the high and increasing volatility of prices on the commodity markets. 
 
 This year (similar to last year) I had the chance to become a contributing author of the outlook by working on the uncertainties in production costs. 
 
