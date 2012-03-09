@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Climate Change-related paper on the 28th Triennial Conference of IAAE
-subtitle: Our joint paper with my fellow CAPRI colleagues in IPTS is accepted for the 28th IAAE Conference with the title: “EU Wide Regional and Farm Level Impacts of Climate Change”.
+subtitle: Our joint paper with my fellow CAPRI colleagues in IPTS is accepted for the 28th IAAE Conference with the title 'EU Wide Regional and Farm Level Impacts of Climate Change'.
 authors: mihaly
 genre: news
 ---
