@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: capridemo 
 title: Capri Demo 
 subtitle: Visualisations and online publishing of CAPRI results 
 ---
