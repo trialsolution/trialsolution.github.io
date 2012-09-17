@@ -4,8 +4,10 @@ title: Capri Demo
 subtitle: Visualisations and online publishing of CAPRI results 
 ---
 
+Interactive maps and plots of CAPRI results
+===========================================
+
 <div id="post">
-  <h2>Interactive maps and plots of CAPRI results</h2>
 
   Utilized agricultural area at NUTS2 level, CAPRI results, DDA scenario
 
