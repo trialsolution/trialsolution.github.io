@@ -1,5 +1,5 @@
 ---
-layout: capridemo 
+layout: default 
 title: Interactive maps and plots of CAPRI results
 subtitle: Visualisations and online publishing of CAPRI results 
 ---
