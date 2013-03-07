@@ -2,7 +2,7 @@
 layout: capridemo 
 title: Interactive maps and plots of CAPRI results
 genre: capridemo
-subtitle: Visualisations and online publishing of CAPRI results 
+subtitle: Step by step guide to visualize CAPRI results and publish them online
 ---
 
 {{ page.title }}
