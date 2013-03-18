@@ -7,7 +7,7 @@ subtitle: Projects, publications and background
 <div class="one column">
 
 
-<h1 class="remove-bottom" style="margin-top: 40px">{{ page.title}}</h1>
+<h1>{{ page.title}}</h1>
 <h5>{{ page.subtitle }}</h5>
 <hr />
 
@@ -47,8 +47,8 @@ subtitle: Projects, publications and background
 <h3>Projects</h3>
 
 <ul>
-<li> Common Agricultural Policy Regionalised Impact - The Rural Development Dimension <a href="http://www.ilr.uni-bonn.de/agpo/rsrch/capri-rd/caprird_e.htm" target="_blank">(CAPRI-RD)</a>, FP7-projecti </li>
-<li> Structural Change in Agriculture and Rural Livelihoods <a href="http://scarled.eu/" target="_blank">(SCARLED)</a>, FP6-projecti </li>
+<li> Common Agricultural Policy Regionalised Impact - The Rural Development Dimension <a href="http://www.ilr.uni-bonn.de/agpo/rsrch/capri-rd/caprird_e.htm" target="_blank">(CAPRI-RD)</a>, FP7-project </li>
+<li> Structural Change in Agriculture and Rural Livelihoods <a href="http://scarled.eu/" target="_blank">(SCARLED)</a>, FP6-project </li>
 <li> Projection of Economic impacts of climate change in Sectors of the European Union based on boTtom-up Analysis<a href="http://139.191.1.75/peseta/" target="_blank">(PESETA 2)</a>, Project of the Joint Research Center of the European Commission </li>
 <li> DATAM Data Management software package, joint project of IPTS and <a href="http://www.prognoz.com/en/index.php" target="_blank">Prognoz</a> </li>
 
@@ -64,9 +64,18 @@ subtitle: Projects, publications and background
 <h3>Professional experience</h3>
 
   <TABLE> 
-      <TR ALIGN=LEFT><TD>08/2012-       </TD><TD>Research fellow / PhD student at the Institute for Food and Resource Economics <a href="http://www.ilr.uni-bonn.de/agpo/agpo_e.htm" target="_blank">(ILR)</a> @ University of Bonn, Germany</TD></TR>
-	  <TR ALIGN=LEFT><TD>08/2009-07/2012</TD><TD>Postdoc. Researcher at the Institute for Prospective Technological Studies <a href="http://agrilife.jrc.ec.europa.eu/agritrade.html" target="_blank">(IPTS)</a> in Seville, Spain</TD></TR>
-      <TR ALIGN=LEFT><TD>09/2003-07/2009</TD><TD>Junior Researcher and then Research Fellow at the Research Institute for Agricultural Economics <a href="http://www.aki.gov.hu" target="_blank">(AKI)</a> in Budapest, Hungary</TD></TR> 
+    <TR ALIGN=LEFT>
+	    <TD>08/2012-       </TD>
+		<TD>Research fellow / PhD student at the Institute for Food and Resource Economics <a href="http://www.ilr.uni-bonn.de/agpo/agpo_e.htm" target="_blank">(ILR)</a> at University of Bonn, Germany</TD>
+	</TR>
+	  <TR ALIGN=LEFT>
+	     <TD>08/2009-07/2012</TD>
+		 <TD>Postdoc. Researcher at the Institute for Prospective Technological Studies <a href="http://agrilife.jrc.ec.europa.eu/agritrade.html" target="_blank">(IPTS)</a> in Seville, Spain</TD>
+	  </TR>
+      <TR ALIGN=LEFT>
+	     <TD>09/2003-07/2009</TD>
+		 <TD>Junior Researcher and then Research Fellow at the Research Institute for Agricultural Economics <a href="http://www.aki.gov.hu" target="_blank">(AKI)</a> in Budapest, Hungary</TD>
+	  </TR> 
    </TABLE>
 
 <hr/>
@@ -76,8 +85,14 @@ subtitle: Projects, publications and background
 <h3>Education</h3>
 
   <TABLE>
-      <TR ALIGN=LEFT><TD>ongoing        </TD><TD>PhD studies in agricultural economics @ University of Bonn, Germany</TD></TR>
-	  <TR ALIGN=LEFT><TD>2003           </TD><TD>MSC in mathematics @ University of Debrecen, Hungary</TD></TR>
+      <TR ALIGN=LEFT>
+	  	<TD>ongoing        </TD>
+		<TD>PhD studies in agricultural economics at University of Bonn, Germany</TD>
+	  </TR>
+	  <TR ALIGN=LEFT>
+	  	<TD>2003           </TD>
+		<TD>MSC in mathematics at University of Debrecen, Hungary</TD>
+	  </TR>
    </TABLE>
 
  <hr/>
