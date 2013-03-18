@@ -56,11 +56,9 @@ subtitle: Projects, publications and background
 
 <hr/>
 
-</div>
 
 
 
-<div class="one-third column">
 <h3>Professional experience</h3>
 
   <TABLE> 
