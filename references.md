@@ -61,20 +61,11 @@ subtitle: Projects, publications and background
 
 <h3>Professional experience</h3>
 
-  <TABLE> 
-    <TR ALIGN=LEFT>
-	    <TD>08/2012-       </TD>
-		<TD>Research fellow / PhD student at the Institute for Food and Resource Economics <a href="http://www.ilr.uni-bonn.de/agpo/agpo_e.htm" target="_blank">(ILR)</a> at University of Bonn, Germany</TD>
-	</TR>
-	  <TR ALIGN=LEFT>
-	     <TD>08/2009-07/2012</TD>
-		 <TD>Postdoc. Researcher at the Institute for Prospective Technological Studies <a href="http://agrilife.jrc.ec.europa.eu/agritrade.html" target="_blank">(IPTS)</a> in Seville, Spain</TD>
-	  </TR>
-      <TR ALIGN=LEFT>
-	     <TD>09/2003-07/2009</TD>
-		 <TD>Junior Researcher and then Research Fellow at the Research Institute for Agricultural Economics <a href="http://www.aki.gov.hu" target="_blank">(AKI)</a> in Budapest, Hungary</TD>
-	  </TR> 
-   </TABLE>
+<ul>
+	    <li><strong>08/2012-  </strong>	Research fellow and PhD student at the Institute for Food and Resource Economics <a href="http://www.ilr.uni-bonn.de/agpo/agpo_e.htm" target="_blank">(ILR)</a> at University of Bonn, Germany</li>
+		<li><strong>08/2009-07/2012  </strong> Postdoc. Researcher at the Institute for Prospective Technological Studies <a href="http://agrilife.jrc.ec.europa.eu/agritrade.html" target="_blank">(IPTS)</a> in Seville, Spain   </li>
+	    <li><strong>09/2003-07/2009  </strong> Junior Researcher and then Research Fellow at the Research Institute for Agricultural Economics <a href="http://www.aki.gov.hu" target="_blank">(AKI)</a> in Budapest, Hungary</li>
+</ul>
 
 <hr/>
 
