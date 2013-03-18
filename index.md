@@ -14,7 +14,7 @@ subtitle: a personal website
 
 
 
-<div class="one-third column">
+<div class="two-thirds column">
 <h3>About</h3>
 I'm a mathematician and PhD candidate in agricultural economics. 
 With this website I have two objectives. On the one hand it provides references to my <a href="references">projects and publications</a>. 
