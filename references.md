@@ -13,11 +13,7 @@ subtitle: Projects, publications and background
 
 <div class="sixteen columns">
  <a href="http://trialsolution.github.com">Back to home</a> 
-</div>
 
-
-
-<div class="sixteen columns">
 
 <h3>Selected Publications</h3>
 
@@ -42,11 +38,9 @@ subtitle: Projects, publications and background
 
  <hr/>
 
-</div>
 
 
 
-<div class="sixteen columns">
 
 <h3>Projects</h3>
 
@@ -60,9 +54,7 @@ subtitle: Projects, publications and background
 
 <hr/>
    
-</div>
 
-<div class="sixteen columns">
 
 <h3>Professional experience</h3>
 
@@ -76,7 +68,6 @@ subtitle: Projects, publications and background
 </div>
 
 
-<div class="sixteen columns">
 
 <h3>Education</h3>
 
