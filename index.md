@@ -1,16 +1,20 @@
 ---
 layout: default
 title: trial solution 
-subtitle: personal website
+subtitle: a personal website
 ---
 
-About
-=====
+{{ page.title}}
+===============
 
-<img src="http://0.gravatar.com/userimage/6480299/2b3fee64888909891a6cf7865c11fc4f?size=100"/>
-Hello and welcome to the personal website of Mihaly Himics. I'm a mathematician working in agricultural economics research. I'm currently in a researcher position at University of Bonn, PhD candidate and an active member of the CAPRI model network [CAPRI](http://www.capri-model.org). 
+<h5>{{ page.subtitle }}</h5>
 
-On this website you can find updates on my [current research activites](/news) and also a list of my [publications](/publications).
+<hr />
+
+Welcome to my homepage. I'm a mathematician and PhD candidate in agricultural economics. 
+
+With this website I have two objectives. On the one hand it provides references to my [projects and publications](/references). 
+On the other hand it serves as a research notebook with posts covering my [current research activites](/notebook).
 
 You might also want to visit [my blog](http://trialsolution.wordpress.com) or to take a look at [my github page](http://github.com/trialsolution).
 
