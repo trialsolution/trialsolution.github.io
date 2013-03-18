@@ -27,20 +27,20 @@ subtitle: Projects, publications and background
 <h3>Selected Publications</h3>
 
 <ul>
-<li> <span class="pubAuthor"> Himics M., Van Doorslaer B., Ciaian P., Shrestha S.</span> (2012) Increasing volatility of input costs in the EU agriculture. Conference Paper, European Association of Agricultural Economists, 123rd Seminar, February 23-24, 2012, Dublin Ireland <a href="http://purl.umn.edu/122531" target="_blank">link</a>
+<li> <strong> Himics M., Van Doorslaer B., Ciaian P., Shrestha S.</strong> (2012) Increasing volatility of input costs in the EU agriculture. Conference Paper, European Association of Agricultural Economists, 123rd Seminar, February 23-24, 2012, Dublin Ireland <a href="http://purl.umn.edu/122531" target="_blank">link</a></li>
 	
-<li> <span class="pubAuthor"> Shrestha S., Himics M., Van Doorslaer B., Ciaian P. </span> (2012) EU wide regional impacts of climate change. Conference Paper, European Association of Agricultural Economists, 123rd Seminar, February 23-24, 2012, Dublin Ireland<a href="http://purl.umn.edu/122546" target="_blank">link</a>
+<li> <strong> Shrestha S., Himics M., Van Doorslaer B., Ciaian P. </strong> (2012) EU wide regional impacts of climate change. Conference Paper, European Association of Agricultural Economists, 123rd Seminar, February 23-24, 2012, Dublin Ireland<a href="http://purl.umn.edu/122546" target="_blank">link</a></li>
 
 
-<li> <span class="pubAuthor"> A. Burrell, E. Ferrari, A. Gonzalez Mellado, M. Himics, J. Michalek, S. Shrestha and B. Van Doorslaer </span> (2011) Potential EU-Mercosur Free Trade Agreement: Impact Assessment. <a href="http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=4819" target="_blank">link</a>
+<li> <strong> A. Burrell, E. Ferrari, A. Gonzalez Mellado, M. Himics, J. Michalek, S. Shrestha and B. Van Doorslaer </strong> (2011) Potential EU-Mercosur Free Trade Agreement: Impact Assessment. <a href="http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=4819" target="_blank">link</a></li>
 
-<li> <span class="pubAuthor"> European Commission (contributing author)</span> (2011) PROSPECTS FOR AGRICULTURAL MARKETS AND INCOME IN THE EU 2011-2020 <a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf" target="_blank">link</a>
+<li> <strong> European Commission (contributing author)</strong> (2011) PROSPECTS FOR AGRICULTURAL MARKETS AND INCOME IN THE EU 2011-2020 <a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf" target="_blank">link</a></li>
 
-<li> <span class="pubAuthor"> European Commission (contributing author)</span> (2010) PROSPECTS FOR AGRICULTURAL MARKETS AND INCOME IN THE EU 2010-2020 <a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2010/fullrep_en.pdf" target="_blank">link</a>
+<li> <strong> European Commission (contributing author)</strong> (2010) PROSPECTS FOR AGRICULTURAL MARKETS AND INCOME IN THE EU 2010-2020 <a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2010/fullrep_en.pdf" target="_blank">link</a></li>
 
-<li> <span class="pubAuthor"> Himics M. </span> (2008) Modelling the Hungarian Agriculture: a methodological overview of the FARM-T model. Conference Paper, European Association of Agricultural Economists, 107th Seminar, January 30-February 1, 2008, Sevilla, Spain <a href="http://purl.umn.edu/6697" target="_blank">link</a>
+<li> <strong> Himics M. </strong> (2008) Modelling the Hungarian Agriculture: a methodological overview of the FARM-T model. Conference Paper, European Association of Agricultural Economists, 107th Seminar, January 30-February 1, 2008, Sevilla, Spain <a href="http://purl.umn.edu/6697" target="_blank">link</a></li>
 
-<li> <span class="pubAuthor"> Himics M., Potori N. </span> (2007) Short- and mid-term prospects of the main agricultural sectors in Hungary: a model based analysis with a methodological overview. Conference Paper, European Association of Agricultural Economists, 104th Seminar, September 5-8, 2007, Budapest, Hungary <a href="http://purl.umn.edu/7844" target="_blank">link</a>
+<li> <strong> Himics M., Potori N. </strong> (2007) Short- and mid-term prospects of the main agricultural sectors in Hungary: a model based analysis with a methodological overview. Conference Paper, European Association of Agricultural Economists, 104th Seminar, September 5-8, 2007, Budapest, Hungary <a href="http://purl.umn.edu/7844" target="_blank">link</a></li>
 
 </ul>
 
