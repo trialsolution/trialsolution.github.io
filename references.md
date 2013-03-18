@@ -17,7 +17,7 @@ subtitle: Projects, publications and background
 
 
 
-<div class="two-thirds column">
+<div class="sixteen columns">
 <h3>Selected Publications</h3>
 
 <ul>
