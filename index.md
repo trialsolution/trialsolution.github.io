@@ -15,20 +15,15 @@ subtitle: a personal website
 
 
 <div class="one-third column">
-<h3>Welcome to my homepage</h3>
+<h3>About</h3>
 I'm a mathematician and PhD candidate in agricultural economics. 
-</div>
-
-
-<div class="one-third column">
-<h3>Why this website?</h3>
 With this website I have two objectives. On the one hand it provides references to my <a href="references">projects and publications</a>. 
 On the other hand it serves as a research notebook with posts covering my <a href="notebook">current research activites</a>.
 </div>
 
 
 <div class="one-third column">
-<h3>Links</h3>
+<h3>Other Resources</h3>
 You might also want to visit <a href="http://trialsolution.wordpress.com">my blog</a> or to take a look at <a href="http://github.com/trialsolution">my github page</a>.
 </div>
 
