@@ -59,6 +59,7 @@ subtitle: Projects, publications and background
 </div>
 
 
+<!-- End Document
 
 <div class="one-third column">
 <h3>Professional experience</h3>
@@ -98,4 +99,6 @@ subtitle: Projects, publications and background
  <hr/>
 
 </div>
+
+ -->
 
