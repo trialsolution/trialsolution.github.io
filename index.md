@@ -6,8 +6,7 @@ subtitle: a personal website
 
 
 <div class="sixteen columns">
-<h1>{{ page.title }}</h1>
-
+<h1 class="remove-bottom" style="margin-top: 40px">{{ page.title }}</h1>
 <h5>{{ page.subtitle }}</h5>
 
 <hr />
@@ -15,18 +14,25 @@ subtitle: a personal website
 
 
 
-<div class="one-third column">
-Welcome to my homepage. I'm a mathematician and PhD candidate in agricultural economics. 
+<div class="two-third column">
+<h3>Welcome to my homepage</h3>
+I'm a mathematician and PhD candidate in agricultural economics. 
 </div>
 
 
-<div class="one-third column">
-With this website I have two objectives. On the one hand it provides references to my [projects and publications](/references). 
-On the other hand it serves as a research notebook with posts covering my [current research activites](/notebook).
+<div class="two-third column">
+<h3>Why this website?</h3>
+With this website I have two objectives. On the one hand it provides references to my <a href="references">projects and publications</a>. 
+On the other hand it serves as a research notebook with posts covering my <a href="notebook">current research activites</a>.
 </div>
 
 
-<div class="one-third column">
-You might also want to visit [my blog](http://trialsolution.wordpress.com) or to take a look at [my github page](http://github.com/trialsolution).
+<div class="sixteen column">
+<h3>Links</h3>
+You might also want to visit <a href="http://trialsolution.wordpress.com">my blog</a> or to take a look at <a href="http://github.com/trialsolution">my github page</a>.
 </div>
+
+
+<hr />
+
 
