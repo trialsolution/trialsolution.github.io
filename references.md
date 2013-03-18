@@ -4,7 +4,7 @@ title: References
 subtitle: Projects, publications and background
 ---
 
-<div class="sixteen column">
+<div class="sixteen columns">
 
 
 <h1>{{ page.title}}</h1>
