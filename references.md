@@ -4,24 +4,26 @@ title: References
 subtitle: Projects, publications and background
 ---
 
+<div class="sixteen columns">
 
 
 <h1 class="remove-bottom" style="margin-top: 40px">{{ page.title}}</h1>
 <h5>{{ page.subtitle }}</h5>
-
 <hr />
 
-<div class="sixteen columns">
- <a href="http://trialsolution.github.com">Back to home</a> 
+ <p> <a href="http://trialsolution.github.com">Back to home</a> </p>
+</div>
 
 
+
+
+<div class="two-thirds column">
 <h3>Selected Publications</h3>
 
 <ul>
 <li> <strong> Himics M., Van Doorslaer B., Ciaian P., Shrestha S.</strong> (2012) Increasing volatility of input costs in the EU agriculture. Conference Paper, European Association of Agricultural Economists, 123rd Seminar, February 23-24, 2012, Dublin Ireland <a href="http://purl.umn.edu/122531" target="_blank">link</a></li>
 	
 <li> <strong> Shrestha S., Himics M., Van Doorslaer B., Ciaian P. </strong> (2012) EU wide regional impacts of climate change. Conference Paper, European Association of Agricultural Economists, 123rd Seminar, February 23-24, 2012, Dublin Ireland<a href="http://purl.umn.edu/122546" target="_blank">link</a></li>
-
 
 <li> <strong> A. Burrell, E. Ferrari, A. Gonzalez Mellado, M. Himics, J. Michalek, S. Shrestha and B. Van Doorslaer </strong> (2011) Potential EU-Mercosur Free Trade Agreement: Impact Assessment. <a href="http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=4819" target="_blank">link</a></li>
 
@@ -54,8 +56,11 @@ subtitle: Projects, publications and background
 
 <hr/>
    
+</div>
 
 
+
+<div class="one-third column">
 <h3>Professional experience</h3>
 
   <TABLE> 
@@ -65,7 +70,6 @@ subtitle: Projects, publications and background
    </TABLE>
 
 <hr/>
-</div>
 
 
 
