@@ -6,8 +6,7 @@ subtitle: a personal website
 
 
 <div class="sixteen columns">
-{{ page.title}}
-===============
+<h1>{{ page.title }}</h1>
 
 <h5>{{ page.subtitle }}</h5>
 
