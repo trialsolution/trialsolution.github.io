@@ -5,11 +5,6 @@ subtitle: Projects, publications and background
 ---
 
 
-<div class="sixteen columns">
- <a href="http://trialsolution.github.com">Back to home</a> 
-</div>
-
-
 
 <h1 class="remove-bottom" style="margin-top: 40px">{{ page.title}}</h1>
 <h5>{{ page.subtitle }}</h5>
@@ -47,19 +42,29 @@ subtitle: Projects, publications and background
 
  <hr/>
 
-Projects
---------
- 
-* Common Agricultural Policy Regionalised Impact - The Rural Development Dimension <a href="http://www.ilr.uni-bonn.de/agpo/rsrch/capri-rd/caprird_e.htm" target="_blank">(CAPRI-RD)</a>, FP7-project
-* Structural Change in Agriculture and Rural Livelihoods <a href="http://scarled.eu/" target="_blank">(SCARLED)</a>, FP6-project
-* Projection of Economic impacts of climate change in Sectors of the European Union based on boTtom-up Analysis<a href="http://139.191.1.75/peseta/" target="_blank">(PESETA 2)</a>, Project of the Joint Research Center of the European Commission
-* DATAM Data Management software package, joint project of IPTS and <a href="http://www.prognoz.com/en/index.phptarget="_blank">Prognoz</a>
+</div>
+
+
+
+<div class="sixteen columns">
+
+<h3>Projects</h3>
+
+<ul>
+<li> Common Agricultural Policy Regionalised Impact - The Rural Development Dimension <a href="http://www.ilr.uni-bonn.de/agpo/rsrch/capri-rd/caprird_e.htm" target="_blank">(CAPRI-RD)</a>, FP7-projecti </li>
+<li> Structural Change in Agriculture and Rural Livelihoods <a href="http://scarled.eu/" target="_blank">(SCARLED)</a>, FP6-projecti </li>
+<li> Projection of Economic impacts of climate change in Sectors of the European Union based on boTtom-up Analysis<a href="http://139.191.1.75/peseta/" target="_blank">(PESETA 2)</a>, Project of the Joint Research Center of the European Commission </li>
+<li> DATAM Data Management software package, joint project of IPTS and <a href="http://www.prognoz.com/en/index.phptarget="_blank">Prognoz</a> </li>
+
+</ul>
 
 <hr/>
    
+</div>
 
-Professional experience
------------------------
+<div class="sixteen columns">
+
+<h3>Professional experience</h3>
 
   <TABLE> 
       <TR ALIGN=LEFT><TD>08/2012-       </TD><TD>Research fellow / PhD student at the Institute for Food and Resource Economics <a href="http://www.ilr.uni-bonn.de/agpo/agpo_e.htm" target="_blank">(ILR)</a> @ University of Bonn, Germany</TD></TR>
@@ -68,19 +73,19 @@ Professional experience
    </TABLE>
 
 <hr/>
+</div>
 
-Education
----------
+
+<div class="sixteen columns">
+
+<h3>Education</h3>
 
   <TABLE>
       <TR ALIGN=LEFT><TD>ongoing        </TD><TD>PhD studies in agricultural economics @ University of Bonn, Germany</TD></TR>
 	  <TR ALIGN=LEFT><TD>2003           </TD><TD>MSC in mathematics @ University of Debrecen, Hungary</TD></TR>       
    </TABLE>
 
- 
-
-
-
+ <hr/>
 
 </div>
 
