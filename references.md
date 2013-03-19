@@ -7,7 +7,9 @@ subtitle: Projects, publications and background
 <div class="sixteen columns">
 
 
-<h1>{{ page.title}}</h1>
+{{ page.title}}
+===============
+
 <h5>{{ page.subtitle }}</h5>
 <hr />
 
@@ -18,7 +20,20 @@ subtitle: Projects, publications and background
 
 
 <div class="sixteen columns">
-<h3>Selected Publications</h3>
+
+### Selected Publications
+
+    {% for post in site.posts %}
+
+    {% if post.genre == 'publication' %}
+    
+      {{ content }}
+
+
+    {% endif  %}
+
+    {% endfor %}
+    
 
 <ul>
 <li> Himics M., Van Doorslaer B., Ciaian P., Shrestha S.(2012) <em> Increasing volatility of input costs in the EU agriculture.</em> Conference Paper, European Association of Agricultural Economists, 123rd Seminar, February 23-24, 2012, Dublin Ireland <a href="http://purl.umn.edu/122531" target="_blank">link</a></li>
