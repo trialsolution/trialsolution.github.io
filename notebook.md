@@ -11,25 +11,26 @@ subtitle:
 
 
 <div class="sixteen columns">
-{{ page.title}}
-===============
+<h1>{{ page.title}}</h1>
 
 <hr />
 </div>
 
 
 <div class="one-third column">
-### Modelling risk in agriculture
+<h3>Modelling risk in agriculture</h3>
 
 <p></p>
 </div>
 
 <div class="one-third column">
-### Modelling agricultural trade
+<h3>Modelling agricultural trade</h3>
+
 <p></p>
 </div>
 
 <div class="one-third column">
-### CAPRI goodies
+<h3>CAPRI goodies</h3>
+
 <p></p>
 </div>
