@@ -1,119 +1,49 @@
 ---
-layout: default
+layout: onecolumn
 title: References
 subtitle: Projects, publications and background
 ---
 
-<div class="sixteen columns">
-
-
-{{ page.title}}
-===============
-
-<h5>{{ page.subtitle }}</h5>
-<hr />
-
- <p> <a href="http://trialsolution.github.com">Back to home</a> </p>
-</div>
 
 
 
+{{ page.title }}
+================
 
-<div class="sixteen columns">
+
+##### {{ page.subtitle }}
+
+
+-------------------------------
+
+ [Back to home](http://trialsolution.github.com")
+
+
 
 ### Selected Publications
 
-    {% for post in site.posts %}
-
-    {% if post.genre == 'publication' %}
-    
-      {{ content }}
-
-
-    {% endif  %}
-
-    {% endfor %}
-    
-
-<ul>
-<li> Himics M., Van Doorslaer B., Ciaian P., Shrestha S.(2012) <em> Increasing volatility of input costs in the EU agriculture.</em> Conference Paper, European Association of Agricultural Economists, 123rd Seminar, February 23-24, 2012, Dublin Ireland <a href="http://purl.umn.edu/122531" target="_blank">link</a></li>
-	
-<li> Shrestha S., Himics M., Van Doorslaer B., Ciaian P. (2012) <em> EU wide regional impacts of climate change.</em> Conference Paper, European Association of Agricultural Economists, 123rd Seminar, February 23-24, 2012, Dublin Ireland<a href="http://purl.umn.edu/122546" target="_blank">link</a></li>
-
-<li> A. Burrell, E. Ferrari, A. Gonzalez Mellado, M. Himics, J. Michalek, S. Shrestha and B. Van Doorslaer (2011) <em> Potential EU-Mercosur Free Trade Agreement: Impact Assessment.</em> <a href="http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=4819" target="_blank">link</a></li>
-
-<li> European Commission (contributing author) (2011) <em> PROSPECTS FOR AGRICULTURAL MARKETS AND INCOME IN THE EU 2011-2020 </em> <a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf" target="_blank">link</a></li>
-
-<li> European Commission (contributing author) (2010) <em> PROSPECTS FOR AGRICULTURAL MARKETS AND INCOME IN THE EU 2010-2020 </em> <a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2010/fullrep_en.pdf" target="_blank">link</a></li>
-
-<li> Himics M. (2008) <em> Modelling the Hungarian Agriculture: a methodological overview of the FARM-T model.</em>  Conference Paper, European Association of Agricultural Economists, 107th Seminar, January 30-February 1, 2008, Sevilla, Spain <a href="http://purl.umn.edu/6697" target="_blank">link</a></li>
-
-<li> Himics M., Potori N. (2007) <em> Short- and mid-term prospects of the main agricultural sectors in Hungary: a model based analysis with a methodological overview.</em>  Conference Paper, European Association of Agricultural Economists, 104th Seminar, September 5-8, 2007, Budapest, Hungary <a href="http://purl.umn.edu/7844" target="_blank">link</a></li>
-
-</ul>
+* Himics M., Van Doorslaer B., Ciaian P., Shrestha S.(2012) _Increasing volatility of input costs in the EU agriculture._ Conference Paper, European Association of Agricultural Economists, 123rd Seminar, February 23-24, 2012, Dublin Ireland [link](http://purl.umn.edu/122531)
+* Shrestha S., Himics M., Van Doorslaer B., Ciaian P. (2012) _EU wide regional impacts of climate change._ Conference Paper, European Association of Agricultural Economists, 123rd Seminar, February 23-24, 2012, Dublin Ireland [link](http://purl.umn.edu/122546)
+* A. Burrell, E. Ferrari, A. Gonzalez Mellado, M. Himics, J. Michalek, S. Shrestha and B. Van Doorslaer (2011) _Potential EU-Mercosur Free Trade Agreement: Impact Assessment._ [link](http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=4819)
+* European Commission (contributing author) (2011) _PROSPECTS FOR AGRICULTURAL MARKETS AND INCOME IN THE EU 2011-2020_ [link](http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf)
+* European Commission (contributing author) (2010) _PROSPECTS FOR AGRICULTURAL MARKETS AND INCOME IN THE EU 2010-2020_ [link](http://ec.europa.eu/agriculture/publi/caprep/prospects2010/fullrep_en.pdf)
+* Himics M. (2008) _Modelling the Hungarian Agriculture: a methodological overview of the FARM-T model._  Conference Paper, European Association of Agricultural Economists, 107th Seminar, January 30-February 1, 2008, Sevilla, Spain [link](http://purl.umn.edu/6697)
+* Himics M., Potori N. (2007) _Short- and mid-term prospects of the main agricultural sectors in Hungary: a model based analysis with a methodological overview._  Conference Paper, European Association of Agricultural Economists, 104th Seminar, September 5-8, 2007, Budapest, Hungary [link](http://purl.umn.edu/7844)
 
 
- <hr/>
+-------------------------------
 
 
 
+### Projects
 
 
-<h3>Projects</h3>
+* Common Agricultural Policy Regionalised Impact - The Rural Development Dimension [(CAPRI-RD)](<http://www.ilr.uni-bonn.de/agpo/rsrch/capri-rd/caprird_e.htm), FP7-project
+* Structural Change in Agriculture and Rural Livelihoods [(SCARLED)](http://scarled.eu/), FP6-project
+* Projection of Economic impacts of climate change in Sectors of the European Union based on boTtom-up Analysis [(PESETA 2)](http://139.191.1.75/peseta/), Project of the Joint Research Center of the European Commission
+* DATAM Data Management software package, joint project of IPTS and [Prognoz](http://www.prognoz.com/en/index.php)
 
-<ul>
-<li> Common Agricultural Policy Regionalised Impact - The Rural Development Dimension <a href="http://www.ilr.uni-bonn.de/agpo/rsrch/capri-rd/caprird_e.htm" target="_blank">(CAPRI-RD)</a>, FP7-project </li>
-<li> Structural Change in Agriculture and Rural Livelihoods <a href="http://scarled.eu/" target="_blank">(SCARLED)</a>, FP6-project </li>
-<li> Projection of Economic impacts of climate change in Sectors of the European Union based on boTtom-up Analysis<a href="http://139.191.1.75/peseta/" target="_blank">(PESETA 2)</a>, Project of the Joint Research Center of the European Commission </li>
-<li> DATAM Data Management software package, joint project of IPTS and <a href="http://www.prognoz.com/en/index.php" target="_blank">Prognoz</a> </li>
-
-</ul>
-
-<hr/>
+--------------------------------
 
 
-
-
-<h3>Professional experience</h3>
-
-<table>
-	<tr>
-	    <td>08/2012-  </td>	
-		<td><em>Research fellow and PhD student</em> at the Institute for Food and Resource Economics <a href="http://www.ilr.uni-bonn.de/agpo/agpo_e.htm" target="_blank">(ILR)</a> at University of Bonn, Germany</td>
-	</tr>
-	<tr>
-		<td>08/2009-07/2012</td> 
-		<td> <em>Postdoc. Researcher</em> at the Institute for Prospective Technological Studies <a href="http://agrilife.jrc.ec.europa.eu/agritrade.html" target="_blank">(IPTS)</a> in Seville, Spain </td>
-	</tr>
-	<tr>
-	    <td>09/2003-07/2009</td>
-		<td><em>Junior Researcher and then Research Fellow </em> at the Research Institute for Agricultural Economics <a href="http://www.aki.gov.hu" target="_blank">(AKI)</a> in Budapest, Hungary</td>
-	</tr>
-</table>
-
-<hr/>
-
-</div>
-
-<!-- End Document
-
-
-<h3>Education</h3>
-
-  <TABLE>
-      <TR ALIGN=LEFT>
-	  	<TD>ongoing        </TD>
-		<TD>PhD studies in agricultural economics at University of Bonn, Germany</TD>
-	  </TR>
-	  <TR ALIGN=LEFT>
-	  	<TD>2003           </TD>
-		<TD>MSC in mathematics at University of Debrecen, Hungary</TD>
-	  </TR>
-   </TABLE>
-
- <hr/>
-
-</div>
-
- -->
 
