@@ -16,7 +16,7 @@ subtitle: Projects, publications and background
 
 -------------------------------
 
- [Back to home](http://trialsolution.github.com")
+ [Back to home](http://trialsolution.github.com)
 
 
 
