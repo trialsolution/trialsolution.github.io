@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: onecolumn 
 title: Interactive maps and plots of CAPRI results
 subtitle: Visualisations and online publishing of CAPRI results 
 ---
