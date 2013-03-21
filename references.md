@@ -5,21 +5,6 @@ subtitle: Projects, publications and background
 ---
 
 
-
-
-{{ page.title }}
-================
-
-
-##### {{ page.subtitle }}
-
-
--------------------------------
-
- [Back to home](http://trialsolution.github.com)
-
-
-
 ### Selected Publications
 
 * Himics M., Van Doorslaer B., Ciaian P., Shrestha S.(2012) _Increasing volatility of input costs in the EU agriculture._ Conference Paper, European Association of Agricultural Economists, 123rd Seminar, February 23-24, 2012, Dublin Ireland [link](http://purl.umn.edu/122531)
