@@ -1,11 +1,11 @@
 ---
 layout: onecolumn 
-title: Interactive maps and plots of CAPRI results
-subtitle: Visualisations and online publishing of CAPRI results 
+title: CAPRI goodies
+subtitle: Demonstration projects around the CAPRI model 
 ---
 
 <div id="post">
-  <h2>Visualisations of CAPRI model results</h2>
+  <h2>{{ page.title }}</h2>
   
   <hr />
   
