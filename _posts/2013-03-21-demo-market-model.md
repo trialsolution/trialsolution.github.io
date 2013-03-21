@@ -1,5 +1,5 @@
 ---
-layout: onecolumn 
+layout: onecolumn
 title: Short version of the CAPRI market model
 genre: capridemo
 subtitle: A demo version of the CAPRI market model is published
