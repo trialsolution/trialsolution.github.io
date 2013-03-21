@@ -6,15 +6,6 @@ subtitle: Step by step guide to visualize CAPRI results and publish them online
 ---
 
 
-{{ page.title }}
-================
-
-
--------
-
-[Back to home](http://trialsolution.github.com)
-
-
 Sample intesity plot featuring CAPRI results. The documentation on how to create one is available [here](https://docs.google.com/open?id=0B-d1UB4LuffIR2V1c2xmVzhHYmM).
 
 
