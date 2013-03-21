@@ -5,9 +5,7 @@ subtitle: Demonstration projects around the CAPRI model
 ---
 
 <div id="post">
-  <h2>{{ page.title }}</h2>
-  
-  <hr />
+
   
   <ul class="posts">
     {% for post in site.posts %}
