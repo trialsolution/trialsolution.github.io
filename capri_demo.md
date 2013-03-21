@@ -6,6 +6,9 @@ subtitle: Visualisations and online publishing of CAPRI results
 
 <div id="post">
   <h2>Visualisations of CAPRI model results</h2>
+  
+  <hr />
+  
   <ul class="posts">
     {% for post in site.posts %}
 
