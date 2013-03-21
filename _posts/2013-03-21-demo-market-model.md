@@ -6,7 +6,11 @@ subtitle: A demo version of the CAPRI market model is published
 ---
 
 
-Short version of the CAPRI market model
+{{ page.title }}
+================
+
+
+---------------------
 
 
 Today I started the _shortcapri_ project on github. It is about developing a simple, demonstrative 
