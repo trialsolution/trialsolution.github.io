@@ -5,8 +5,9 @@ genre: capridemo
 subtitle: A demo version of the CAPRI market model is published
 ---
 
-{{ page.title }}
-===========================================
+
+Short version of the CAPRI market model
+=======================================
 
 
 Today I started the _shortcapri_ project on github. It is about developing a simple, demonstrative 
