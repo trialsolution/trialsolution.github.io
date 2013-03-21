@@ -1,5 +1,5 @@
 ---
-layout: onecolumn 
+layout: onecolumn
 title: Interactive maps and plots of CAPRI results
 genre: capridemo
 subtitle: Step by step guide to visualize CAPRI results and publish them online
